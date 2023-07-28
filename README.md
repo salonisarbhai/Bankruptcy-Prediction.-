@@ -1,1 +1,1 @@
-# Bankruptcy-Prediction.-
+# Bankruptcy-Prediction.
